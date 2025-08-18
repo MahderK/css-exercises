@@ -1,0 +1,16 @@
+.same{
+    background-color:rgb(238, 146, 146);
+    font-family: Verdana, 'Dejavu sans', sans-serif;
+}
+.same#no3{
+    font-size: 25px;
+}
+#no2{
+    color: blue;
+    font-size: 32px;
+}
+#no4{
+    background-color: rgb(120, 235, 120);
+    font-weight: 1000;
+    font-size: 21px;
+}
