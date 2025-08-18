@@ -1,0 +1,12 @@
+.greedy{
+    background-color: black;
+    color: white;
+}
+.greedy-two{
+    background-color: yellow;
+}
+.greedy,
+.greedy-two{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
